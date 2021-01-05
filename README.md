@@ -9,6 +9,7 @@
 ## typings
 ### dat.gui
 Step 1: See `src/typings/dat.gui/index.d.ts`
+
 Step 2: See `src/client/space.ts`
 ```js
 import { GUI } from '/jsm/libs/dat.gui.module'
@@ -17,6 +18,7 @@ import { GUI } from '/jsm/libs/dat.gui.module'
 
 ### tween.js
 Step 1: See `src/typings/tween.js/index.d.ts`
+
 Step 2: See `src/client/space.ts`
 ```js
 import { TWEEN } from '/jsm/libs/tween.module.min'
